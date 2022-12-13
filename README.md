@@ -21,4 +21,5 @@ Some Modules are part of an [library](https://github.com/G6EJD/ESP32-e-Paper-Wea
 [ArduinoJson](https://arduinojson.org) is important to read API Information.
 
 ## Usage (TODO)
-I don't know how this will be usable yet.
+I don't know how this will be usable yet.  
+Coming soon
